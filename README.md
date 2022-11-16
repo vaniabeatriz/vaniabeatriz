@@ -2,8 +2,6 @@
 
 I am a software developer graduate studying Cloud Computing, Python, and SQL. I hold a nanodegree Software certificate from the Code First Girls Bootcamp, alongside a Product Management certification from Udacity. I am passionate about technology and innovation. At the moment,I'm working on documenting my tech journey on my website (coming soon!), where I will showcase my projects.
 
-**vaniabeatriz/vaniabeatriz** is a ✨ _special_ ✨ repository because its `README.md`
-
 
 - 🔭 I'm currently working on creating a twitter-like application using Django.
 - 🤓 I'm soon to be studying for Microsoft Azure Developer Associate (AZ-204)
