@@ -1,6 +1,6 @@
 ##  Vania Beatriz
 
-Hey! I am a software developer graduate studying Cloud Computing, Python, and SQL. I hold a nanodegree Software certificate from the Code First Girls Bootcamp, alongside a Product Management certification from Udacity. I am passionate about technology and innovation. At the moment,I'm working on documenting my tech journey on my website (coming soon!), where I will showcase my projects.
+Hey! I am a in-trainig software developer studying Cloud Computing, Python, and SQL. I hold a nanodegree Software certificate from the Code First Girls Bootcamp, alongside a Product Management certification from Udacity. I am passionate about technology and innovation. At the moment,I'm working on documenting my tech journey on my website (coming soon!), where I will showcase my projects.
 
 ##  Recent Activity
 
