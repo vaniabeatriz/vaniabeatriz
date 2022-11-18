@@ -4,7 +4,7 @@ Hey! I am a software developer graduate studying Cloud Computing, Python, and SQ
 
 ##  Recent Activity
 
-- 🔭 I'm currently working on creating a twitter-like application using Django.
+- 🔭 I'm currently working on creating a web application using Django.
 - 🌱 I'm currently learning about Docker and micro services. I'm still in the foundations, but already using some of the learnings in my new project.
 - 👯 I’m looking to collaborate on open source projects with some social or environmental impact.
 - 🤔 I’m looking for help with Kubernetes and DevOps. Topics of great interest that I want to delve into.
