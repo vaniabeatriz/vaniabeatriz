@@ -9,5 +9,5 @@ Hey! I am a in-trainig software developer studying Cloud Computing, Python, and 
 - 👯 I’m looking to collaborate on open source projects with some social or environmental impact.
 - 🤔 I’m looking for help with Kubernetes and DevOps. Topics of great interest that I want to delve into.
 - 🫶🏼 Pronouns: She/Her
-- 💫 Fun fact: I'm very social and love organizing small parties for my friends and family, but my hobbies are rather quiet and relaxing. I like writing, I enjoy reading, and I participate in a book club with friends. I also love cinema and I host a film club once every two months to discuss our impressions of a previous chosen film so we can learn about other points of view and perceptions and learn from each other. And that's why I chose the theme of my final project of the Bootcamp to be a website to get random films from a public API.
+- 💫 Fun fact: I'm very social and love organizing small parties for my friends and family. I like writing, reading, and I participate in a book club run by friends. I also love cinema and I host a film club once every two months.
 
