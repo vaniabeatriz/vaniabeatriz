@@ -10,5 +10,5 @@ Hey! I am a in-trainig software developer studying Java. I am passionate about t
 - 👯 I’m looking to collaborate on open source projects with social or/and environmental impact.
 - 🤔 I’m looking for help with Kubernetes and DevOps. Topics of great interest that I want to delve into.
 - 🫶🏼 Pronouns: She/Her
-- 💫 Fun fact: I'm very social and love organizing small parties for my friends and family. I like writing, reading, and I participate in a book club organised by friends. I also love jigsaw puzzles and cinema,and I host a film club once every two months.
+- 💫 Fun fact: I'm very social and love planning small parties for friends and family. I like writing, reading. I also love jigsaw puzzles and cinema,and I host a film club once every two months.
 
