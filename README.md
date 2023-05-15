@@ -2,8 +2,7 @@
 
 Hey! I am a graduate software developer :)   
 
-As a developer, my goal is to create tools that serve a good purpose and contribute to a better world.
-
+As a developer, my goal is to create tools that serve a good purpose and contribute to a better world.  
 I am passionate about technology and innovation. At the moment,I'm working on documenting my tech journey to showcase my projects.
 
 ##  Recent Activity
