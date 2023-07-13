@@ -9,8 +9,9 @@ As a developer, my goal is to create tools that serve a good purpose and contrib
 ##  Recent Activity
 
 
-+ ☕️ The last project I worked on was at Albany Beck, where I used Java and Spring Boot, JUnit, Spring Security, Git, Atlassian tools, and Agile techniques.
-
++ ☕️ For my final training in Java at Albany Beck, I had the opportunity to contribute to an exciting project. I utilised various technologies and tools such as Java, Spring Boot, JUnit, Git, Atlassian tools, and Agile methodologies. Our focus was the development of an internal Trading application.
++ 
++ 📽In my software CFGdegree final project, I collaborated with my teammates to create a Python web application. The assignment's main objective was to develop a user-friendly webpage that offers random film recommendations, helping users save time and avoid the hassle of searching through streaming catalogues.
 + 👯 I’m looking to collaborate on open-source projects with social and/or environmental impact.
 
 + 🫶🏼 Pronouns: She/Her
