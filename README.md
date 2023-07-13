@@ -2,7 +2,7 @@
 
 Hey! I am a career changer and a graduate software developer. :)
 
-As a developer, my goal is to create tools that serve a good purpose and contribute to a better world. I am passionate about technology and innovation. Currently, I am working on documenting my tech journey to showcase my projects.
+As a developer, my goal is to create tools that serve a good purpose and contribute to a better world. I am passionate about technology and innovation.
 
 
 
