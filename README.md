@@ -1,6 +1,6 @@
 ##  Vania Beatriz
 
-Hey! I am a career changer and a graduate software developer. :)
+Hey! I am a career changer and a in-training software developer. :)
 
 As a developer, my goal is to create tools that serve a good purpose and contribute to a better world. I am passionate about technology and innovation.
 
